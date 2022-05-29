@@ -14,7 +14,7 @@ Simply run `python main.py` without any parameter except `--detail` option.
 
 ## Run your own test cases
 
-Run `python main.py <N> <M0>,<M1>,...<Mn>` with some options. You can specify whether to print detail by adding `--detail` and whether to
+Run `python main.py <N> <m0>,<m1>,...<mn>` with some options. You can specify whether to print detail by adding `--detail` and whether to
 use Petrick's method only by adding `--petrick-only`, whether '1' comes first or not by adding `--one-precedes-dash`.
 
 ### Example
@@ -40,3 +40,12 @@ elapsed time: 1.0008811950683594ms
 Ran total 1 cases, took 1.001119613647461ms.
 ```
 
+
+
+
+
+## Presentation video
+
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
